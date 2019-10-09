@@ -1,0 +1,8 @@
+Nombre:luisa
+Dirección:tierra linda
+Cantidad de Jamón y Queso:3
+--------------------------------------------------------
+Nombre:pama
+Dirección:ambala
+Cantidad de Napolitana:3
+--------------------------------------------------------
